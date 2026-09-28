@@ -1,0 +1,6 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M250 500C388.071 500 500 388.071 500 250C500 111.929 388.071 0 250 0C111.929 0 0 111.929 0 250C0 388.071 111.929 500 250 500Z" fill="#4A2FB4"/>
+<rect width="500" height="500" fill="#4A2FB4"/>
+<circle cx="308.594" cy="253.906" r="60.5469" fill="white" stroke="#2D72EA" stroke-width="15.625"/>
+<rect x="118.164" y="180.664" width="263.672" height="146.484" rx="73.2422" stroke="white" stroke-width="17.5781"/>
+</svg>
