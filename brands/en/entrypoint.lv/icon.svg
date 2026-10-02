@@ -1,0 +1,18 @@
+<svg width="250" height="250" viewBox="0 0 250 250" version="1.1" id="svg_null" xmlns="http://www.w3.org/2000/svg">
+    <g id="root" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shape" transform="translate(125.000000, 0.000000)">
+            <g id="left">
+                <path d="M0 0c-69.036 0 -125 55.964 -125 125c0 69.036 55.964 125 125 125" id="shape.primary" fill="#b2b2b2"></path>
+                <path d="M0 45c-44.183 0 -80 35.817 -80 80c0 44.183 35.817 80 80 80" id="shape.primary" fill="#353535"></path>
+                <path d="M0 74c-28.167 0 -51 22.833 -51 51c0 28.167 22.833 51 51 51" id="shape" fill="#9a9a9a"></path>
+                <path d="M0 100c-14.36 0 -26 11.417 -26 25.5c0 14.083 11.64 25.5 26 25.5" id="shape" fill="#fff"></path>
+            </g>
+            <g id="right" transform="translate(187.500000, 125.000000) scale(-1, 1) translate(-187.500000, -125.000000) translate(125.000000, 0.000000)">
+                <path d="M250 0c-69.036 0 -125 55.964 -125 125c0 69.036 55.964 125 125 125" id="shape.secondary" fill="#e5e5e5"></path>
+                <path d="M250 45c-44.183 0 -80 35.817 -80 80c0 44.183 35.817 80 80 80" id="shape.secondary" fill="#b7b7b7"></path>
+                <path d="M250 74c-28.167 0 -51 22.833 -51 51c0 28.167 22.833 51 51 51" id="shape" fill="#dbdbdb"></path>
+                <path d="M250 100c-14.36 0 -26 11.417 -26 25.5c0 14.083 11.64 25.5 26 25.5" id="shape" fill="#fff"></path>
+            </g>
+        </g>
+    </g>
+</svg>
